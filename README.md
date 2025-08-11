@@ -7,3 +7,7 @@ Team Members
 - [Ishwar Sharma](https://github.com/Ishwar2104)
 - [Krunal Pandhare]        (https://github.com/username)
 - [Jeremiah    ]
+
+
+Tech Stack
+TBD
