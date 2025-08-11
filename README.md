@@ -6,7 +6,7 @@ Team Members
 - [Saurav Jogi](https://github.com/Saurav-jogi)
 - [Ishwar Sharma](https://github.com/Ishwar2104)
 - [Krunal Pandhare](https://github.com/KunalPandhare25)
-- [Jeremiah Carvalho]
+- [Jeremiah Carvalho](https://github.com/jeremiah2810)
 
 
 Tech Stack
