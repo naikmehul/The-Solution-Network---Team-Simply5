@@ -5,8 +5,8 @@ Team Members
 - [Mehul Naik](https://github.com/naikmehul)
 - [Saurav Jogi](https://github.com/Saurav-jogi)
 - [Ishwar Sharma](https://github.com/Ishwar2104)
-- [Krunal Pandhare]        (https://github.com/username)
-- [Jeremiah    ]
+- [Krunal Pandhare](https://github.com/KunalPandhare25)
+- [Jeremiah Carvalho]
 
 
 Tech Stack
