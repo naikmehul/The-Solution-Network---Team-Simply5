@@ -5,5 +5,5 @@ Team Members
 - [Mehul Naik](https://github.com/naikmehul)
 - [Saurav Jogi](https://github.com/Saurav-jogi)
 - [Ishwar Sharma](https://github.com/Ishwar2104)
-- [Krunal](https://github.com/username)
-- [J     ]
+- [Krunal Pandhare]        (https://github.com/username)
+- [Jeremiah    ]
