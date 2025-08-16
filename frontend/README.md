@@ -19,32 +19,22 @@ src/
 │
 ├─ components/       
 │   ├─ Navbar.jsx
-│   ├─ Navbar.css       
 │   ├─ IssueList.jsx
-│   ├─ IssueList.css    
 │   ├─ IssueCard.jsx
-│   ├─ IssueCard.css     
 │   ├─ IssueDetail.jsx
-│   ├─ IssueDetail.css  
 │   └─ Profile.jsx
-│   └─ Profile.css       
 │
-├─ pages/            
+├─ pages/           
 │   ├─ Home.jsx
-│   ├─ Home.css         
 │   ├─ Issues.jsx
-│   ├─ Issues.css        
 │   └─ ProfilePage.jsx
-│   └─ ProfilePage.css   
 │
 ├─ services/         
 │   └─ api.js
 │
-├─ App.jsx         
-├─ App.css              
+├─ App.jsx          
 ├─ main.jsx          
-└─ index.css            
-       
+└─ index.css   
 ```
 
 ---
