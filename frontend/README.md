@@ -6,9 +6,8 @@ It allows users to **report, track, and view local issues** in their community.
 - **Requirements Covered**:  
   -  Project setup using React + Vite  
   - Basic folder/component structure implemented  
-  -  Navbar, Home, Issues, and Profile pages created  
-  -  Code in runnable state (`npm run dev`)  
-  -  Backend API connection (`GET /api/issues`) – *to be completed for final milestone check*  
+  -  Navbar, Home, Issues, and Profile pages created 
+  -  Backend API connection (`GET /api/issues`) – *Currenlty ongoing*  
 
 ---
 
