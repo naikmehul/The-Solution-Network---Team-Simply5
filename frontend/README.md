@@ -7,7 +7,7 @@ It allows users to **report, track, and view local issues** in their community.
   -  Project setup using React + Vite  
   - Basic folder/component structure implemented  
   -  Navbar, Home, Issues, and Profile pages created 
-  -  Backend API connection (`GET /api/issues`) – *Currenlty ongoing*  
+  -  Backend API connection (`GET /api/issues`) – *Currently ongoing*  
 
 ---
 
