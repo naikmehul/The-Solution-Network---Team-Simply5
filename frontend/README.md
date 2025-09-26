@@ -1,71 +1,65 @@
-#  Local Grievance App – Frontend  
+# 📘 Grievance Portal – Frontend
 
-This project is the **frontend application** for the Local Grievance System, built with **React (Vite)**.  
-It allows users to **report, track, and view local issues** in their community.  
-
-- **Requirements Covered**:  
-  -  Project setup using React + Vite  
-  - Basic folder/component structure implemented  
-  -  Navbar, Home, Issues, and Profile pages created 
-  -  Backend API connection (`GET /api/issues`) – *Currently ongoing*  
+This is the **frontend React application** for the Grievance Portal, built with **React + Vite + TailwindCSS + React Router**.  
+It connects to the backend API (Node.js + Express) for managing grievances.
 
 ---
 
-##  Project Structure  
-
-```
-src/
-│
-├─ components/       
-│   ├─ Navbar.jsx
-│   ├─ IssueList.jsx
-│   ├─ IssueCard.jsx
-│   ├─ IssueDetail.jsx
-│   └─ Profile.jsx
-│
-├─ pages/           
-│   ├─ Home.jsx
-│   ├─ Issues.jsx
-│   └─ ProfilePage.jsx
-│
-├─ services/         
-│   └─ api.js
-│
-├─ App.jsx          
-├─ main.jsx          
-└─ index.css   
-```
+## 🚀 Features
+- Login & Register pages (localStorage-based demo authentication).  
+- Dashboard with statistics and complaint category cards.  
+- All Grievances page with status badges & categories.  
+- Create New Grievance form (POST request to backend).  
+- View/Delete grievance details.  
+- Styled with Tailwind CSS, responsive layout for desktop & mobile.  
 
 ---
 
-##  Features 
+## 📂 Project Structure
+frontend/
+├── index.html
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+├── postcss.config.js
+├── public/
+│ └── logo.png
+└── src/
+├── App.jsx
+├── main.jsx
+├── index.css
+├── api.js
+├── components/
+│ ├── Navbar.jsx
+│ ├── Footer.jsx
+│ └── GrievanceCard.jsx
+└── pages/
+├── Login.jsx
+├── Register.jsx
+├── GrievanceList.jsx
+├── NewGrievance.jsx
+├── GrievanceDetail.jsx
+└── Dashboard.jsx
 
-- Project initialized with **React + Vite**  
-- Basic **navigation and pages** (Home, Issues, Profile)  
-- Simple **component structure** for Issues + Profile  
-- **Responsive layout** using CSS   
+text
+
 
 ---
 
+## ⚙️ Setup & Run Locally
 
-##  Getting Started  
+1. Navigate into the frontend folder:
+   ```bash
+   cd frontend
+Install dependencies:
 
-### 1️. Clone Repo  
-```bash
-git clone https://github.com/your-username/local-grievance-app.git
-cd local-grievance-app/frontend
-```
+Bash
 
-### 2️. Install Dependencies  
-```bash
 npm install
-```
+Start the development server:
 
-### 3️. Run Development Server  
-```bash
+Bash
+
 npm run dev
-```
-
-App runs at **http://localhost:5173/**  
-
+The app will be available at 👉 http://localhost:5173
 
