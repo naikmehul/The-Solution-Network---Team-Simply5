@@ -32,3 +32,13 @@ It connects to the backend API (Node.js + Express) for managing grievances.
    ```
 ---
 The app will run at -- http://localhost:5173
+---
+NOTE : The frontend will only display data if the **backend server is running on port 4000**.  
+
+- Start the backend first:
+  cd backend
+  npm start
+
+- Then start the frontend:
+  cd frontend
+  npm run dev
