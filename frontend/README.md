@@ -40,10 +40,6 @@ frontend/
 ├── NewGrievance.jsx
 ├── GrievanceDetail.jsx
 └── Dashboard.jsx
-
-text
-
-
 ---
 
 ## ⚙️ Setup & Run Locally
