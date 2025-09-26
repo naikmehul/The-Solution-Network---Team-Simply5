@@ -16,7 +16,7 @@ It connects to the backend API (Node.js + Express) for managing grievances.
 ---
 
 
-## ⚙️ Setup & Run Locally
+## Setup & Run Locally
 
 1. Navigate into the frontend folder:
    ```bash
